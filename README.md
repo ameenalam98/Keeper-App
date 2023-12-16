@@ -2,6 +2,10 @@
 
 Keeper App is a simple and intuitive note-taking web application built using React. It allows users to create and delete notes to keep track of important information. The app provides a clean and user-friendly interface for managing your notes efficiently.
 
+## Demo
+
+View the live demo [here](https://ameenz-keeper-app.vercel.app).
+
 ## Features
 
 - **Create Notes:** Easily create new notes with a title and content.
