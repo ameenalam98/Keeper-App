@@ -1,6 +1,6 @@
 # Keeper App
 
-Keeper App is a simple and intuitive note-taking web application built using React. It allows users to create and delete notes to keep track of important information. The app provides a clean and user-friendly interface for managing your notes efficiently.
+Keeper App is a web-based note-taking application designed to simplify the process of creating and deleting notes. With its user-friendly interface, the app ensures a seamless and organized experience, inspired by Google Keep.
 
 ## Demo
 
